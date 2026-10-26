@@ -1,2 +1,2 @@
-# freecodecamp-Report-Card-workshop
+# freecodecamp-workshops-and-projects
 Learning Python on freecodecamp
